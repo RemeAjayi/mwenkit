@@ -5,8 +5,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='reusables',                           # should match the package folder
-    packages=['reusables'],                     # should match the package folder
+    name='reusablesbyreme',                           # should match the package folder
+    packages=['reusablesbyreme'],                     # should match the package folder
     version='0.0.1',                                # important for updates
     license='MIT',                                  # should match your chosen license
     description='Reusables functions for data science projects',
