@@ -21,7 +21,7 @@
 <br />
 <div align="center">
 
-<h3 align="center">Reusables By Reme</h3>
+<h3 align="center">Mwenkit</h3>
 
   <p align="center">
     project_description
@@ -109,7 +109,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Install PyPI package
   ```
-  pip install reusablesbyreme
+  pip install mwenkit
   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
