@@ -119,7 +119,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-```from reusablesbyreme.<module_name> import <function_name>```
+```from mwenkit.<module_name> import <function_name>```
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -151,7 +151,7 @@ Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Run pylint reusablesbyreme
+3. Run pylint mwenkit
 4. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 5. Push to the Branch (`git push origin feature/AmazingFeature`)
 6. Open a Pull Request

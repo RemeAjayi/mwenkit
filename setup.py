@@ -7,7 +7,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setuptools.setup(
     name='mwenkit',                           # should match the package folder
     packages=['mwenkit'],                     # should match the package folder
-    version='0.0.1',                                # important for updates
+    version='0.0.3',                                # important for updates
     license='MIT',                                  # should match your chosen license
     description='Reusables functions for data science projects',
     long_description=long_description,              # loads your README.md
