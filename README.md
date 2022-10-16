@@ -21,7 +21,7 @@
 <br />
 <div>
 
-<h1 align="center">Mwenkit</h1>
+<h1>Mwenkit</h1>
 </div>
 
 
