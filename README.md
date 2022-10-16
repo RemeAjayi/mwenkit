@@ -19,9 +19,9 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
+<div>
 
-<h2 align="center">Mwenkit</h2>
+<h1 align="center">Mwenkit</h1>
 </div>
 
 
